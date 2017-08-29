@@ -1,5 +1,9 @@
 import random
 
+
+__all__ = ['say']
+
+
 def say():
     text = [
         '親愛的今天過得好嗎？',
